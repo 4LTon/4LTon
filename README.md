@@ -1,4 +1,5 @@
-### Hi there? I'm Vlad 👋
+<h1 align="center">Hi there, I'm Vlad</h1>
+<h3 align="center">Java Developer</h3>
 
 <!--
 **4LTon/4LTon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
